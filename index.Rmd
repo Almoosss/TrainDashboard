@@ -1,5 +1,5 @@
 ---
-title: "Service Department Dashboard"
+title: "TrainDashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
